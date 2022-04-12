@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "spring.demo.name",
+      "type": "java.lang.String",
+      "description": "demo name",
+      "defaultValue": "huohua"
+    }
+  ]
+}
